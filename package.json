@@ -14,7 +14,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
     "react-test-renderer": "^16.8.6",
-    "sinon": "^7.3.2"
+    "sinon": "^21.0.1"
   },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
